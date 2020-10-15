@@ -1,0 +1,1 @@
+Few java snippet examples in "examples" package.

@@ -50,6 +50,9 @@ public class Employee {
         this.employedAt = employedAt;
     }
 
+    // No really needed
+    public void calculateSalary() { }
+
     public void acceptAndDisplay() {
 
         Scanner data = new Scanner(System.in);
